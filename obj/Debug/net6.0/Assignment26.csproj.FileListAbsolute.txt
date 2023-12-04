@@ -1,0 +1,14 @@
+C:\Users\SuriyaPrakash\source\repos\day-21\Assignment26\bin\Debug\net6.0\Assignment26.exe
+C:\Users\SuriyaPrakash\source\repos\day-21\Assignment26\bin\Debug\net6.0\Assignment26.deps.json
+C:\Users\SuriyaPrakash\source\repos\day-21\Assignment26\bin\Debug\net6.0\Assignment26.runtimeconfig.json
+C:\Users\SuriyaPrakash\source\repos\day-21\Assignment26\bin\Debug\net6.0\Assignment26.dll
+C:\Users\SuriyaPrakash\source\repos\day-21\Assignment26\bin\Debug\net6.0\Assignment26.pdb
+C:\Users\SuriyaPrakash\source\repos\day-21\Assignment26\obj\Debug\net6.0\Assignment26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuriyaPrakash\source\repos\day-21\Assignment26\obj\Debug\net6.0\Assignment26.AssemblyInfoInputs.cache
+C:\Users\SuriyaPrakash\source\repos\day-21\Assignment26\obj\Debug\net6.0\Assignment26.AssemblyInfo.cs
+C:\Users\SuriyaPrakash\source\repos\day-21\Assignment26\obj\Debug\net6.0\Assignment26.csproj.CoreCompileInputs.cache
+C:\Users\SuriyaPrakash\source\repos\day-21\Assignment26\obj\Debug\net6.0\Assignment26.dll
+C:\Users\SuriyaPrakash\source\repos\day-21\Assignment26\obj\Debug\net6.0\refint\Assignment26.dll
+C:\Users\SuriyaPrakash\source\repos\day-21\Assignment26\obj\Debug\net6.0\Assignment26.pdb
+C:\Users\SuriyaPrakash\source\repos\day-21\Assignment26\obj\Debug\net6.0\Assignment26.genruntimeconfig.cache
+C:\Users\SuriyaPrakash\source\repos\day-21\Assignment26\obj\Debug\net6.0\ref\Assignment26.dll
